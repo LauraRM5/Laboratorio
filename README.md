@@ -6,4 +6,4 @@ Laboratorio práctico: análisis de datos históricos de existencias/ingresos y 
 # Question 4 - Extracting GameStop Revenue Data Using Webscraping - 1 Points
 # Question 5 - Tesla Stock and Revenue Dashboard - 2 Points
 # Question 6 - GameStop Stock and Revenue Dashboard- 2 Points
-# Question 7 - Sharing your Assignment Notebook - 2 Points
+# Question 7 - Sharing your Assignment Notebook - 2 Points 
